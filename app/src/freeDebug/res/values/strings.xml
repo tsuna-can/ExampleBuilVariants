@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FreeDebug</string>
+    <string name="build_type">Debug</string>
+    <string name="build_flavor">Free</string>
+</resources>

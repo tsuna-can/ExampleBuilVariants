@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BuildVariants</string>
+    <string name="app_name">BuildVariantsApp</string>
+    <string name="build_type">release</string>
+    <string name="build_flavor">free</string>
 </resources>

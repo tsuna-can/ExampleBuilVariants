@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProStaging</string>
+    <string name="build_type">Staging</string>
+    <string name="build_flavor">Pro</string>
+</resources>
